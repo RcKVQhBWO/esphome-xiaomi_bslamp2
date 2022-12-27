@@ -106,7 +106,7 @@ light:
       
       night:
 
-        cold:        { red: 100%, green: 20%,   blue: 0%   }
+        calm:        { red: 100%, green: 20%,   blue: 0%   }
 
 # Binary sensors can be created for handling front panel touch / release
 # events. To specify what part of the front panel to look at, the "for"
